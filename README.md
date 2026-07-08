@@ -91,6 +91,7 @@ Built inside an **8-phase, phase-aware framework** (P0–P7), with the Build Loo
   _(Copy the URL from your browser's address bar — I can't generate it for you.)_
 - **Discovery brief:** [`notes.md`](./notes.md)
 - **Reference app:** https://buildmygraphic.com/
+- **Project in Claude Chat:** https://claude.ai/project/019f349f-ed57-76d1-8a07-e5b28cebd2f9
 
 ## Workflow
 
